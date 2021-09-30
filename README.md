@@ -1,4 +1,4 @@
-<h1>Web Scraping Indeed</h1>
+<h1>Web Scraping Shopee</h1>
 Scraped data from an e-commerce platform, Shopee with python. Using a user defined function main(), product keyword is entered to obtain the following:
 <li>Product name</li>
 <li>Product price</li>
